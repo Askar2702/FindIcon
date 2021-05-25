@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2891ff9f9b7c6a4f8382d05e55569e1, type: 3}
+  m_Name: Hard
+  m_EditorClassIdentifier: 
+  Name:
+  - bag
+  - belts
+  - book
+  - boots
+  - bracers
+  - cloaks
+  - coins
+  - gem
+  - gloves
+  Sprite:
+  - {fileID: 21300000, guid: fe025e83f69d0b54f8a4fe3c7c128fd7, type: 3}
+  - {fileID: 21300000, guid: da09804303305f542a686824630e7269, type: 3}
+  - {fileID: 21300000, guid: ae496f5dad56ea645b72d374a0376368, type: 3}
+  - {fileID: 21300000, guid: e420c5bc93cb2604695a893500c897e3, type: 3}
+  - {fileID: 21300000, guid: 70a77abda853dd941a0c8debf1de9b04, type: 3}
+  - {fileID: 21300000, guid: 6fc27c9d7fc2d9448af6851bf935e6d2, type: 3}
+  - {fileID: 21300000, guid: 3676a0b185daeb54fb257f700ba7ead4, type: 3}
+  - {fileID: 21300000, guid: e7d29a79bc7fae248887c8a08a160303, type: 3}
+  - {fileID: 21300000, guid: d4f5634edede200468fc1ccf30e6f3a1, type: 3}
